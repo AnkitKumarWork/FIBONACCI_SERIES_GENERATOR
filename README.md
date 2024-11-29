@@ -17,6 +17,7 @@ This project involves the design and implementation of a Fibonacci sequence gene
 ## Module Description
 ### fibonacci_generator
 The `fibonacci_generator` module generates Fibonacci numbers sequentially. It uses a clock signal to drive the sequential logic and a reset signal to initialize the sequence. The enable signal allows the sequence generation to start or stop. The module outputs the current Fibonacci number, the next Fibonacci number, and the sum of these two numbers as the Fibonacci output. It also includes a counter to keep track of the number of Fibonacci numbers generated and a done signal to indicate when the sequence generation is complete.
+![image](https://github.com/user-attachments/assets/a0e1b0fc-bcea-4c61-b4e4-f7c028e5537d)
 
 ### Inputs
 - **`clk` (input):** The clock signal that drives the sequential logic.
@@ -38,7 +39,7 @@ The Fibonacci sequence is a series of numbers where each number is the sum of th
 
 ![image](https://github.com/user-attachments/assets/dabd4fa2-a66a-4db2-a454-38d4f12b4898)
 
-![image](https://github.com/user-attachments/assets/a0e1b0fc-bcea-4c61-b4e4-f7c028e5537d)
+
 
 
 ### Algorithm
