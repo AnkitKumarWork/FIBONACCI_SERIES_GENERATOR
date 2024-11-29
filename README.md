@@ -34,16 +34,7 @@ The `fibonacci_generator` module generates Fibonacci numbers sequentially. It us
 The Fibonacci sequence is a series of numbers where each number is the sum of the two preceding ones, usually starting with 0 and 1. The sequence goes as follows: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, and so on. Mathematically, the Fibonacci sequence is defined by the recurrence relation:
 
 
-
-\[ F(n) = F(n-1) + F(n-2) \]
-
-
-
-with initial conditions:
-
-
-
-\[ F(0) = 0, \quad F(1) = 1 \]
+![image](https://github.com/user-attachments/assets/dabd4fa2-a66a-4db2-a454-38d4f12b4898)
 
 
 
@@ -66,9 +57,6 @@ To get started with the project, follow these steps:
 
 ## Contributing
 If you would like to contribute to this project, please fork the repository and submit a pull request with your changes. Ensure that your code follows the project's coding standards and includes appropriate documentation.
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
 
 ## Contact
 For any questions or inquiries, please contact [Your Name] at [Your Email].
