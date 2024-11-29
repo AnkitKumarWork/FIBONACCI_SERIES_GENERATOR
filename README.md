@@ -24,6 +24,8 @@ The `fibonacci_generator` module generates Fibonacci numbers sequentially. It us
 - **`enable` (input):** Enables the Fibonacci sequence generation.
 
 ### Outputs
+![image](https://github.com/user-attachments/assets/5aaf8f9a-886e-446f-a1dd-87c81688a88d)
+
 - **`num1` (output reg):** Holds the current Fibonacci number.
 - **`num2` (output reg):** Holds the next Fibonacci number.
 - **`fib_out` (output):** The output Fibonacci number, which is the sum of `num1` and `num2`.
@@ -36,6 +38,7 @@ The Fibonacci sequence is a series of numbers where each number is the sum of th
 
 ![image](https://github.com/user-attachments/assets/dabd4fa2-a66a-4db2-a454-38d4f12b4898)
 
+![image](https://github.com/user-attachments/assets/a0e1b0fc-bcea-4c61-b4e4-f7c028e5537d)
 
 
 ### Algorithm
